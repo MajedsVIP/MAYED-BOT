@@ -1,0 +1,4478 @@
+{
+    "Ship": {
+        "Destroyer": [
+            [
+                "Bulwark",
+                {
+                    "Armor": 3,
+                    "Base": 13000,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 2,
+                    "Base": 1500,
+                    "Regen": 10
+                },
+                {
+                    "Small": 3,
+                    "Point": 2,
+                    "Fixed": 0,
+                    "Medium": 3
+                },
+                {
+                    "Acceleration": 40,
+                    "Vertical": 10,
+                    "Warp Speed": 55,
+                    "Warp Charge Time": 8,
+                    "Base": 50,
+                    "Agility": 40,
+                    "Boost": 85
+                },
+                {
+                    "Engine": 0,
+                    "Defense": 2,
+                    "Subsystem": 2,
+                    "Weapon": 1,
+                    "Reactor": 1
+                },
+                {
+                    "Base": 850,
+                    "Regen": 8.25
+                },
+                [],
+                "Large",
+                [
+                    55,
+                    10000
+                ],
+                0,
+                [],
+                []
+            ],
+            [
+                "Loxodon",
+                {
+                    "Armor": 4,
+                    "Base": 7500,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0,
+                    "Base": 3750,
+                    "Regen": 24
+                },
+                {
+                    "Small": 6,
+                    "Point": 2,
+                    "Fixed": 0,
+                    "Medium": 2
+                },
+                {
+                    "Acceleration": 27,
+                    "Vertical": 5,
+                    "Warp Charge Time": 7,
+                    "Base": 55,
+                    "Agility": 36,
+                    "Warp Speed": 70,
+                    "Boost": 60
+                },
+                {
+                    "Weapon": 2,
+                    "Reactor": 1,
+                    "Subsystem": 2,
+                    "Engine": 1,
+                    "Defense": 1
+                },
+                {
+                    "Base": 900,
+                    "Regen": 7.5
+                },
+                {
+                    "TurretDamage": 1.05
+                },
+                "Large",
+                [
+                    55,
+                    10000
+                ],
+                0,
+                [],
+                []
+            ],
+            [
+                "Justice",
+                {
+                    "Armor": 3.5,
+                    "Base": 3800,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 2.5,
+                    "Base": 10000,
+                    "Regen": 12
+                },
+                {
+                    "Small": 4,
+                    "Point": 4,
+                    "Fixed": 0,
+                    "Medium": 2
+                },
+                {
+                    "Acceleration": 17,
+                    "Vertical": 15,
+                    "Warp Charge Time": 8,
+                    "Base": 55,
+                    "Agility": 36,
+                    "Warp Speed": 70,
+                    "Boost": 60
+                },
+                {
+                    "Weapon": 1,
+                    "Reactor": 1,
+                    "Subsystem": 2,
+                    "Engine": 1,
+                    "Defense": 2
+                },
+                {
+                    "Base": 850,
+                    "Regen": 9.75
+                },
+                {
+                    "TurretAgility": 1.75
+                },
+                "Large",
+                [
+                    55,
+                    10000
+                ],
+                0,
+                [],
+                []
+            ],
+            [
+                "Horizon",
+                {
+                    "Armor": 3,
+                    "Base": 4200,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 2.5,
+                    "Base": 5000,
+                    "Regen": 17
+                },
+                {
+                    "Small": 8,
+                    "Point": 2,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 30,
+                    "Vertical": 14,
+                    "Warp Speed": 100,
+                    "Warp Charge Time": 5.5,
+                    "Base": 70,
+                    "Agility": 50,
+                    "Boost": 85
+                },
+                {
+                    "Engine": 2,
+                    "Defense": 1,
+                    "Subsystem": 2,
+                    "Weapon": 0,
+                    "Reactor": 2
+                },
+                {
+                    "Base": 900,
+                    "Regen": 9
+                },
+                [],
+                "Large",
+                [
+                    55,
+                    8000
+                ],
+                0,
+                [],
+                []
+            ],
+            [
+                "Echelon",
+                {
+                    "Armor": 6.5,
+                    "Base": 11000,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 2,
+                    "Base": 2000,
+                    "Regen": 16
+                },
+                {
+                    "Small": 4,
+                    "Point": 2,
+                    "Fixed": 0,
+                    "Medium": 2
+                },
+                {
+                    "Acceleration": 16,
+                    "Vertical": 12,
+                    "Warp Speed": 70,
+                    "Warp Charge Time": 8,
+                    "Base": 60,
+                    "Agility": 32,
+                    "Boost": 85
+                },
+                {
+                    "Engine": 1,
+                    "Defense": 2,
+                    "Subsystem": 2,
+                    "Weapon": 1,
+                    "Reactor": 1
+                },
+                {
+                    "Base": 1000,
+                    "Regen": 9
+                },
+                [],
+                "Large",
+                [
+                    55,
+                    10000
+                ],
+                0,
+                [],
+                []
+            ],
+            [
+                "Fortitude",
+                {
+                    "Armor": 3,
+                    "Base": 5600,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 2,
+                    "Base": 3250,
+                    "Regen": 30
+                },
+                {
+                    "Small": 4,
+                    "Point": 4,
+                    "Fixed": 0,
+                    "Medium": 2
+                },
+                {
+                    "Acceleration": 30,
+                    "Vertical": 13,
+                    "Warp Charge Time": 5,
+                    "Base": 65,
+                    "Agility": 45,
+                    "Warp Speed": 90,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 2,
+                    "Reactor": 2,
+                    "Subsystem": 2,
+                    "Engine": 1,
+                    "Defense": 0
+                },
+                {
+                    "Base": 800,
+                    "Regen": 10.5
+                },
+                [],
+                "Large",
+                [
+                    55,
+                    10000
+                ],
+                0,
+                [],
+                []
+            ],
+            [
+                "Conciliator",
+                {
+                    "Armor": 3,
+                    "Base": 8100,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 3.5,
+                    "Base": 3500,
+                    "Regen": 22.5
+                },
+                {
+                    "Small": 4,
+                    "Point": 3,
+                    "Fixed": 0,
+                    "Medium": 2
+                },
+                {
+                    "Acceleration": 15,
+                    "Vertical": 13,
+                    "Warp Speed": 85,
+                    "Warp Charge Time": 7,
+                    "Base": 65,
+                    "Agility": 45,
+                    "Boost": 85
+                },
+                {
+                    "Engine": 1,
+                    "Defense": 1,
+                    "Subsystem": 3,
+                    "Weapon": 1,
+                    "Reactor": 2
+                },
+                {
+                    "Base": 950,
+                    "Regen": 9.75
+                },
+                [],
+                "Large",
+                [
+                    55,
+                    10000
+                ],
+                0,
+                [],
+                []
+            ]
+        ],
+        "Fighter": [
+            [
+                "Hornbill",
+                {
+                    "Armor": 0,
+                    "Base": 300,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 1,
+                    "Base": 400,
+                    "Regen": 2.5
+                },
+                {
+                    "Small": 0,
+                    "Point": 0,
+                    "Fixed": 3,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 95,
+                    "Vertical": 90,
+                    "Warp Charge Time": 4,
+                    "Base": 170,
+                    "Agility": 145,
+                    "Warp Speed": 150,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 1,
+                    "Reactor": 2,
+                    "Subsystem": 3,
+                    "Engine": 1,
+                    "Defense": 1
+                },
+                {
+                    "Base": 110,
+                    "Regen": 1.6500000000000002
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    4250
+                ],
+                0,
+                [],
+                {
+                    "Damage": 0.8
+                }
+            ],
+            [
+                "ClaymoreX",
+                {
+                    "Armor": 0.25,
+                    "Base": 760,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0,
+                    "Base": 165,
+                    "Regen": 1
+                },
+                {
+                    "Small": 0,
+                    "Point": 0,
+                    "Fixed": 4,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 65,
+                    "Vertical": 7,
+                    "Warp Speed": 110,
+                    "Base": 160,
+                    "Agility": 130,
+                    "Warp Charge Time": 4,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 2,
+                    "Reactor": 0,
+                    "Subsystem": 2,
+                    "Engine": 1,
+                    "Defense": 2
+                },
+                {
+                    "Base": 90,
+                    "Regen": 1.5
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    5000
+                ],
+                0,
+                [],
+                {
+                    "Damage": 1.25
+                }
+            ],
+            [
+                "Luminar",
+                {
+                    "Armor": 0.5,
+                    "Base": 200,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0.5,
+                    "Base": 500,
+                    "Regen": 2.5
+                },
+                {
+                    "Small": 0,
+                    "Point": 0,
+                    "Fixed": 3,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 67.5,
+                    "Vertical": 7,
+                    "Warp Speed": 120,
+                    "Base": 160,
+                    "Agility": 135,
+                    "Warp Charge Time": 4,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 1,
+                    "Reactor": 1,
+                    "Subsystem": 2,
+                    "Engine": 0,
+                    "Defense": 2
+                },
+                {
+                    "Base": 110,
+                    "Regen": 1.5
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    4750
+                ],
+                0,
+                [],
+                []
+            ],
+            [
+                "Piranha",
+                {
+                    "Armor": 0.5,
+                    "Base": 350,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0,
+                    "Base": 100,
+                    "Regen": 1
+                },
+                {
+                    "Small": 0,
+                    "Point": 0,
+                    "Fixed": 2,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 70,
+                    "Vertical": 50,
+                    "Warp Charge Time": 4,
+                    "Base": 160,
+                    "Agility": 150,
+                    "Warp Speed": 130,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 2,
+                    "Reactor": 0,
+                    "Subsystem": 1,
+                    "Engine": 1,
+                    "Defense": 0
+                },
+                {
+                    "Base": 90,
+                    "Regen": 1.2000000000000002
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    4500
+                ],
+                0,
+                [],
+                {
+                    "Damage": 2.1667
+                }
+            ],
+            [
+                "Aurora",
+                {
+                    "Armor": 0.5,
+                    "Base": 200,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0.5,
+                    "Base": 450,
+                    "Regen": 2
+                },
+                {
+                    "Small": 0,
+                    "Point": 0,
+                    "Fixed": 3,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 65,
+                    "Vertical": 7,
+                    "Warp Speed": 110,
+                    "Base": 160,
+                    "Agility": 130,
+                    "Warp Charge Time": 4,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 1,
+                    "Reactor": 1,
+                    "Subsystem": 1,
+                    "Engine": 0,
+                    "Defense": 1
+                },
+                {
+                    "Base": 100,
+                    "Regen": 1.5
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    4750
+                ],
+                0,
+                [],
+                {
+                    "Damage": 0.917
+                }
+            ],
+            [
+                "Luster",
+                {
+                    "Armor": 0,
+                    "Base": 200,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 1,
+                    "Base": 300,
+                    "Regen": 2.5
+                },
+                {
+                    "Small": 0,
+                    "Point": 0,
+                    "Fixed": 2,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 60,
+                    "Vertical": 50,
+                    "Warp Charge Time": 4,
+                    "Base": 150,
+                    "Agility": 120,
+                    "Warp Speed": 90,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 0,
+                    "Reactor": 0,
+                    "Subsystem": 1,
+                    "Engine": 1,
+                    "Defense": 2
+                },
+                {
+                    "Base": 110,
+                    "Regen": 1.2000000000000002
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    4500
+                ],
+                0,
+                [],
+                {
+                    "Damage": 1.668
+                }
+            ],
+            [
+                "Toucan",
+                {
+                    "Armor": 0,
+                    "Base": 250,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0.5,
+                    "Base": 400,
+                    "Regen": 2
+                },
+                {
+                    "Small": 0,
+                    "Point": 0,
+                    "Fixed": 2,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 90,
+                    "Vertical": 50,
+                    "Warp Charge Time": 4,
+                    "Base": 160,
+                    "Agility": 140,
+                    "Warp Speed": 140,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 1,
+                    "Reactor": 2,
+                    "Subsystem": 2,
+                    "Engine": 1,
+                    "Defense": 0
+                },
+                {
+                    "Base": 105,
+                    "Regen": 1.5
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    4000
+                ],
+                0,
+                [],
+                {
+                    "Damage": 1.5
+                }
+            ],
+            [
+                "Lucent",
+                {
+                    "Armor": 0,
+                    "Base": 250,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 1.5,
+                    "Base": 300,
+                    "Regen": 2.5
+                },
+                {
+                    "Small": 0,
+                    "Point": 0,
+                    "Fixed": 2,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 65,
+                    "Vertical": 50,
+                    "Warp Charge Time": 4,
+                    "Base": 155,
+                    "Agility": 125,
+                    "Warp Speed": 130,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 0,
+                    "Reactor": 1,
+                    "Subsystem": 2,
+                    "Engine": 1,
+                    "Defense": 2
+                },
+                {
+                    "Base": 115,
+                    "Regen": 1.2000000000000002
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    4500
+                ],
+                0,
+                [],
+                {
+                    "Damage": 1.834
+                }
+            ],
+            [
+                "Claymore",
+                {
+                    "Armor": 1,
+                    "Base": 650,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0,
+                    "Base": 150,
+                    "Regen": 1.5
+                },
+                {
+                    "Small": 0,
+                    "Point": 0,
+                    "Fixed": 4,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 60,
+                    "Vertical": 7,
+                    "Warp Speed": 110,
+                    "Base": 155,
+                    "Agility": 120,
+                    "Warp Charge Time": 4,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 2,
+                    "Reactor": 0,
+                    "Subsystem": 2,
+                    "Engine": 0,
+                    "Defense": 2
+                },
+                {
+                    "Base": 80,
+                    "Regen": 1.5
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    5000
+                ],
+                0,
+                [],
+                {
+                    "Damage": 1.167
+                }
+            ],
+            [
+                "Thresher",
+                {
+                    "Armor": 0.5,
+                    "Base": 350,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0,
+                    "Base": 125,
+                    "Regen": 1
+                },
+                {
+                    "Small": 0,
+                    "Point": 0,
+                    "Fixed": 4,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 80,
+                    "Vertical": 50,
+                    "Warp Charge Time": 4,
+                    "Base": 165,
+                    "Agility": 155,
+                    "Warp Speed": 130,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 2,
+                    "Reactor": 0,
+                    "Subsystem": 2,
+                    "Engine": 2,
+                    "Defense": 0
+                },
+                {
+                    "Base": 90,
+                    "Regen": 1.35
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    4500
+                ],
+                0,
+                [],
+                {
+                    "Damage": 1.167
+                }
+            ],
+            [
+                "LuminarX",
+                {
+                    "Armor": 0.5,
+                    "Base": 200,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 1.5,
+                    "Base": 450,
+                    "Regen": 1.5
+                },
+                {
+                    "Small": 0,
+                    "Point": 0,
+                    "Fixed": 3,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 80,
+                    "Vertical": 7,
+                    "Warp Speed": 125,
+                    "Base": 165,
+                    "Agility": 145,
+                    "Warp Charge Time": 4,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 1,
+                    "Reactor": 1,
+                    "Subsystem": 2,
+                    "Engine": 1,
+                    "Defense": 2
+                },
+                {
+                    "Base": 110,
+                    "Regen": 1.7999999999999999
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    4750
+                ],
+                0,
+                [],
+                {
+                    "Damage": 1.083
+                }
+            ],
+            [
+                "Sabre",
+                {
+                    "Armor": 1,
+                    "Base": 600,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0,
+                    "Base": 150,
+                    "Regen": 1
+                },
+                {
+                    "Small": 0,
+                    "Point": 0,
+                    "Fixed": 4,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 50,
+                    "Vertical": 7,
+                    "Warp Speed": 100,
+                    "Base": 150,
+                    "Agility": 115,
+                    "Warp Charge Time": 4,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 2,
+                    "Reactor": 0,
+                    "Subsystem": 2,
+                    "Engine": 0,
+                    "Defense": 1
+                },
+                {
+                    "Base": 75,
+                    "Regen": 1.5
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    5000
+                ],
+                0,
+                [],
+                {
+                    "Damage": 1.084
+                }
+            ]
+        ],
+        "Miner": [
+            [
+                "Ozark",
+                {
+                    "Armor": 2,
+                    "Regen": 0,
+                    "Base": 2200
+                },
+                {
+                    "Armor": 1,
+                    "Base": 660,
+                    "Regen": 7
+                },
+                {
+                    "Small": 3,
+                    "Point": 2,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 15,
+                    "Vertical": 14,
+                    "Warp Charge Time": 5,
+                    "Base": 70,
+                    "Agility": 65,
+                    "Warp Speed": 70,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 0,
+                    "Reactor": 1,
+                    "Subsystem": 1,
+                    "Engine": 1,
+                    "Defense": 1
+                },
+                {
+                    "Base": 350,
+                    "Regen": 5
+                },
+                {
+                    "TractorSpeed": 1.5,
+                    "TurretYield": 2
+                },
+                "Medium",
+                [
+                    35,
+                    6500
+                ],
+                0,
+                {
+                    "Combat": 2
+                },
+                {
+                    "Damage": 0.75
+                }
+            ],
+            [
+                "Marlin",
+                {
+                    "Armor": 0,
+                    "Base": 180,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0.5,
+                    "Base": 75,
+                    "Regen": 2
+                },
+                {
+                    "Small": 0,
+                    "Point": 1,
+                    "Fixed": 1,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 100,
+                    "Vertical": 42,
+                    "Warp Speed": 150,
+                    "Base": 210,
+                    "Agility": 160,
+                    "Warp Charge Time": 3,
+                    "Boost": 85
+                },
+                {
+                    "Engine": 2,
+                    "Defense": 0,
+                    "Subsystem": 1,
+                    "Weapon": 0,
+                    "Reactor": 1
+                },
+                {
+                    "Base": 90,
+                    "Regen": 1.7999999999999999
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    4000
+                ],
+                0,
+                [],
+                {
+                    "Rate": 0.8,
+                    "Yield": 0.8
+                }
+            ],
+            [
+                "Mako",
+                {
+                    "Armor": 0,
+                    "Base": 225,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 1,
+                    "Base": 100,
+                    "Regen": 3.5
+                },
+                {
+                    "Small": 0,
+                    "Point": 1,
+                    "Fixed": 1,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 112.5,
+                    "Vertical": 44,
+                    "Warp Speed": 170,
+                    "Base": 220,
+                    "Agility": 180,
+                    "Warp Charge Time": 3,
+                    "Boost": 85
+                },
+                {
+                    "Engine": 2,
+                    "Defense": 1,
+                    "Subsystem": 2,
+                    "Weapon": 0,
+                    "Reactor": 1
+                },
+                {
+                    "Base": 90,
+                    "Regen": 1.6500000000000002
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    3750
+                ],
+                0,
+                [],
+                {
+                    "Rate": 0.9,
+                    "Yield": 0.9
+                }
+            ],
+            [
+                "HoneyBadger",
+                {
+                    "Armor": 1,
+                    "Base": 400,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0.5,
+                    "Base": 80,
+                    "Regen": 2.5
+                },
+                {
+                    "Small": 0,
+                    "Point": 2,
+                    "Fixed": 1,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 105,
+                    "Vertical": 37,
+                    "Warp Speed": 130,
+                    "Base": 185,
+                    "Agility": 90,
+                    "Warp Charge Time": 4,
+                    "Boost": 85
+                },
+                {
+                    "Engine": 0,
+                    "Defense": 1,
+                    "Subsystem": 2,
+                    "Weapon": 2,
+                    "Reactor": 0
+                },
+                {
+                    "Base": 100,
+                    "Regen": 1.5
+                },
+                [],
+                "Small",
+                [
+                    30,
+                    5000
+                ],
+                0,
+                [],
+                {
+                    "Yield": 1.3,
+                    "Rate": 1.3,
+                    "Damage": 0.5
+                }
+            ],
+            [
+                "Badger",
+                {
+                    "Armor": 0.5,
+                    "Base": 260,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0,
+                    "Base": 50,
+                    "Regen": 2
+                },
+                {
+                    "Small": 0,
+                    "Point": 1,
+                    "Fixed": 1,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 95,
+                    "Vertical": 35,
+                    "Warp Speed": 140,
+                    "Base": 175,
+                    "Agility": 90,
+                    "Warp Charge Time": 5,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 0,
+                    "Reactor": 1,
+                    "Subsystem": 1,
+                    "Engine": 1,
+                    "Defense": 1
+                },
+                {
+                    "Base": 100,
+                    "Regen": 1.5
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    5000
+                ],
+                0,
+                [],
+                {
+                    "Damage": 0.5,
+                    "Speed": 0.8,
+                    "Yield": 1.1,
+                    "Rate": 1.1
+                }
+            ],
+            [
+                "Koronis",
+                {
+                    "Armor": 0,
+                    "Base": 300,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0,
+                    "Base": 200,
+                    "Regen": 2
+                },
+                {
+                    "Small": 0,
+                    "Point": 1,
+                    "Fixed": 1,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 110,
+                    "Vertical": 33,
+                    "Warp Speed": 80,
+                    "Base": 165,
+                    "Agility": 200,
+                    "Warp Charge Time": 4,
+                    "Boost": 85
+                },
+                {
+                    "Engine": 2,
+                    "Defense": 0,
+                    "Subsystem": 2,
+                    "Weapon": 1,
+                    "Reactor": 2
+                },
+                {
+                    "Base": 120,
+                    "Regen": 1.35
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    5000
+                ],
+                2,
+                [],
+                []
+            ],
+            [
+                "Yukon",
+                {
+                    "Armor": 4,
+                    "Base": 8400,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 2,
+                    "Base": 1800,
+                    "Regen": 12
+                },
+                {
+                    "Small": 10,
+                    "Point": 4,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 10,
+                    "Vertical": 5,
+                    "Warp Charge Time": 6,
+                    "Base": 50,
+                    "Agility": 30,
+                    "Warp Speed": 70,
+                    "Boost": 60
+                },
+                {
+                    "Weapon": 0,
+                    "Reactor": 1,
+                    "Subsystem": 1,
+                    "Engine": 1,
+                    "Defense": 2
+                },
+                {
+                    "Base": 900,
+                    "Regen": 9
+                },
+                {
+                    "TractorSpeed": 1.75,
+                    "TurretYield": 2.25
+                },
+                "Large",
+                [
+                    55,
+                    10000
+                ],
+                2,
+                {
+                    "Mining": 6,
+                    "Combat": 6
+                },
+                []
+            ],
+            [
+                "Eos",
+                {
+                    "Armor": 2,
+                    "Base": 2400,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 1,
+                    "Base": 800,
+                    "Regen": 4
+                },
+                {
+                    "Small": 3,
+                    "Point": 3,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 17,
+                    "Vertical": 15,
+                    "Warp Charge Time": 4,
+                    "Base": 75,
+                    "Agility": 60,
+                    "Warp Speed": 60,
+                    "Boost": 85
+                },
+                {
+                    "Engine": 0,
+                    "Defense": 1,
+                    "Subsystem": 1,
+                    "Weapon": 0,
+                    "Reactor": 1
+                },
+                {
+                    "Base": 450,
+                    "Regen": 3.75
+                },
+                {
+                    "TractorSpeed": 1.5,
+                    "TurretYield": 1.75
+                },
+                "Medium",
+                [
+                    35,
+                    6500
+                ],
+                4,
+                [],
+                []
+            ],
+            [
+                "Kodiak",
+                {
+                    "Armor": 3,
+                    "Regen": 0,
+                    "Base": 4000
+                },
+                {
+                    "Armor": 1,
+                    "Base": 850,
+                    "Regen": 7
+                },
+                {
+                    "Small": 4,
+                    "Point": 3,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 13,
+                    "Vertical": 12,
+                    "Warp Charge Time": 5,
+                    "Base": 60,
+                    "Agility": 55,
+                    "Warp Speed": 70,
+                    "Boost": 85
+                },
+                {
+                    "Engine": 1,
+                    "Defense": 1,
+                    "Subsystem": 1,
+                    "Weapon": 0,
+                    "Reactor": 1
+                },
+                {
+                    "Base": 550,
+                    "Regen": 6
+                },
+                {
+                    "TractorSpeed": 1.5,
+                    "TurretYield": 2
+                },
+                "Medium",
+                [
+                    40,
+                    8000
+                ],
+                2,
+                {
+                    "Combat": 4
+                },
+                {
+                    "Damage": 0.75
+                }
+            ],
+            [
+                "Vesta",
+                {
+                    "Armor": 3,
+                    "Base": 4000,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 1,
+                    "Base": 1250,
+                    "Regen": 6
+                },
+                {
+                    "Small": 4,
+                    "Point": 4,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 15,
+                    "Vertical": 13,
+                    "Warp Charge Time": 4,
+                    "Base": 67,
+                    "Agility": 55,
+                    "Warp Speed": 60,
+                    "Boost": 85
+                },
+                {
+                    "Engine": 0,
+                    "Defense": 1,
+                    "Subsystem": 1,
+                    "Weapon": 1,
+                    "Reactor": 1
+                },
+                {
+                    "Base": 600,
+                    "Regen": 5.4
+                },
+                {
+                    "TractorSpeed": 1.5,
+                    "TurretYield": 1.75
+                },
+                "Medium",
+                [
+                    40,
+                    8000
+                ],
+                8,
+                [],
+                []
+            ]
+        ],
+        "Interceptor": [
+            [
+                "ParagonX",
+                {
+                    "Armor": 0,
+                    "Base": 220,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 1,
+                    "Base": 200,
+                    "Regen": 1.5
+                },
+                {
+                    "Small": 0,
+                    "Point": 0,
+                    "Fixed": 2,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 135,
+                    "Vertical": 7,
+                    "Warp Speed": 160,
+                    "Base": 245,
+                    "Agility": 190,
+                    "Warp Charge Time": 3,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 1,
+                    "Reactor": 1,
+                    "Subsystem": 2,
+                    "Engine": 2,
+                    "Defense": 1
+                },
+                {
+                    "Base": 120,
+                    "Regen": 1.5
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    4000
+                ],
+                0,
+                [],
+                {
+                    "Damage": 1.18,
+                    "Speed": 1.25,
+                    "Rate": 1.2
+                }
+            ],
+            [
+                "Parrot",
+                {
+                    "Armor": 0,
+                    "Base": 200,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0,
+                    "Base": 250,
+                    "Regen": 2
+                },
+                {
+                    "Small": 0,
+                    "Point": 0,
+                    "Fixed": 2,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 100,
+                    "Vertical": 7,
+                    "Warp Speed": 130,
+                    "Base": 215,
+                    "Agility": 160,
+                    "Warp Charge Time": 3,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 0,
+                    "Reactor": 2,
+                    "Subsystem": 2,
+                    "Engine": 1,
+                    "Defense": 1
+                },
+                {
+                    "Base": 110,
+                    "Regen": 1.35
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    4750
+                ],
+                0,
+                [],
+                {
+                    "Rate": 1.3,
+                    "Speed": 1.2
+                }
+            ],
+            [
+                "Triazo",
+                {
+                    "Armor": 0,
+                    "Base": 225,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 1,
+                    "Base": 250,
+                    "Regen": 2.5
+                },
+                {
+                    "Small": 0,
+                    "Point": 0,
+                    "Fixed": 2,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 80,
+                    "Vertical": 7,
+                    "Warp Speed": 140,
+                    "Base": 210,
+                    "Agility": 145,
+                    "Warp Charge Time": 3,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 1,
+                    "Reactor": 0,
+                    "Subsystem": 2,
+                    "Engine": 1,
+                    "Defense": 2
+                },
+                {
+                    "Base": 120,
+                    "Regen": 1.35
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    4000
+                ],
+                0,
+                [],
+                {
+                    "Damage": 1.5
+                }
+            ],
+            [
+                "Tetra",
+                {
+                    "Armor": 0,
+                    "Base": 200,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0.5,
+                    "Base": 250,
+                    "Regen": 2
+                },
+                {
+                    "Small": 0,
+                    "Point": 0,
+                    "Fixed": 2,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 70,
+                    "Vertical": 7,
+                    "Warp Speed": 130,
+                    "Base": 200,
+                    "Agility": 135,
+                    "Warp Charge Time": 3,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 1,
+                    "Reactor": 0,
+                    "Subsystem": 1,
+                    "Engine": 1,
+                    "Defense": 1
+                },
+                {
+                    "Base": 120,
+                    "Regen": 1.2000000000000002
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    4000
+                ],
+                0,
+                [],
+                {
+                    "Damage": 1.334
+                }
+            ],
+            [
+                "Paragon",
+                {
+                    "Armor": 0,
+                    "Base": 250,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0,
+                    "Base": 200,
+                    "Regen": 2
+                },
+                {
+                    "Small": 0,
+                    "Point": 0,
+                    "Fixed": 2,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 112.5,
+                    "Vertical": 7,
+                    "Warp Speed": 160,
+                    "Base": 237.5,
+                    "Agility": 170,
+                    "Warp Charge Time": 3,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 1,
+                    "Reactor": 1,
+                    "Subsystem": 2,
+                    "Engine": 2,
+                    "Defense": 0
+                },
+                {
+                    "Base": 120,
+                    "Regen": 1.2000000000000002
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    4000
+                ],
+                0,
+                [],
+                {
+                    "Damage": 1.334,
+                    "Speed": 1.25
+                }
+            ],
+            [
+                "Falcon",
+                {
+                    "Armor": 0,
+                    "Base": 250,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0,
+                    "Base": 150,
+                    "Regen": 1.75
+                },
+                {
+                    "Small": 0,
+                    "Point": 0,
+                    "Fixed": 2,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 92.5,
+                    "Vertical": 7,
+                    "Warp Speed": 150,
+                    "Base": 232.5,
+                    "Agility": 155,
+                    "Warp Charge Time": 3,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 0,
+                    "Reactor": 1,
+                    "Subsystem": 1,
+                    "Engine": 2,
+                    "Defense": 0
+                },
+                {
+                    "Base": 110,
+                    "Regen": 1.25
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    4000
+                ],
+                0,
+                [],
+                {
+                    "Damage": 1.25,
+                    "Speed": 1.25
+                }
+            ],
+            [
+                "Candiru",
+                {
+                    "Armor": 0,
+                    "Base": 150,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0,
+                    "Base": 150,
+                    "Regen": 2
+                },
+                {
+                    "Small": 0,
+                    "Point": 0,
+                    "Fixed": 3,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 95,
+                    "Vertical": 50,
+                    "Warp Charge Time": 3,
+                    "Base": 230,
+                    "Agility": 175,
+                    "Warp Speed": 150,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 2,
+                    "Reactor": 0,
+                    "Subsystem": 2,
+                    "Engine": 2,
+                    "Defense": 0
+                },
+                {
+                    "Base": 105,
+                    "Regen": 1.25
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    4000
+                ],
+                0,
+                [],
+                []
+            ],
+            [
+                "PolarisX",
+                {
+                    "Armor": 0,
+                    "Base": 275,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0,
+                    "Base": 200,
+                    "Regen": 5
+                },
+                {
+                    "Small": 0,
+                    "Point": 0,
+                    "Fixed": 2,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 125,
+                    "Vertical": 7,
+                    "Warp Speed": 140,
+                    "Base": 237.5,
+                    "Agility": 175,
+                    "Warp Charge Time": 3,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 1,
+                    "Reactor": 1,
+                    "Subsystem": 2,
+                    "Engine": 1,
+                    "Defense": 2
+                },
+                {
+                    "Base": 100,
+                    "Regen": 1.7999999999999999
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    4250
+                ],
+                0,
+                [],
+                {
+                    "Damage": 1.75,
+                    "Speed": 1.25
+                }
+            ],
+            [
+                "Polaris",
+                {
+                    "Armor": 0,
+                    "Base": 250,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0,
+                    "Base": 275,
+                    "Regen": 4
+                },
+                {
+                    "Small": 0,
+                    "Point": 0,
+                    "Fixed": 2,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 102.5,
+                    "Vertical": 7,
+                    "Warp Speed": 140,
+                    "Base": 227.5,
+                    "Agility": 150,
+                    "Warp Charge Time": 3,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 1,
+                    "Reactor": 1,
+                    "Subsystem": 2,
+                    "Engine": 1,
+                    "Defense": 1
+                },
+                {
+                    "Base": 90,
+                    "Regen": 1.7999999999999999
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    4250
+                ],
+                0,
+                [],
+                {
+                    "Damage": 1.667,
+                    "Speed": 1.25
+                }
+            ],
+            [
+                "Zenith",
+                {
+                    "Armor": 0,
+                    "Base": 250,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0,
+                    "Base": 250,
+                    "Regen": 3
+                },
+                {
+                    "Small": 0,
+                    "Point": 0,
+                    "Fixed": 2,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 100,
+                    "Vertical": 7,
+                    "Warp Speed": 130,
+                    "Base": 212.5,
+                    "Agility": 150,
+                    "Warp Charge Time": 3,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 0,
+                    "Reactor": 1,
+                    "Subsystem": 1,
+                    "Engine": 1,
+                    "Defense": 1
+                },
+                {
+                    "Base": 80,
+                    "Regen": 1.7999999999999999
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    4250
+                ],
+                0,
+                [],
+                {
+                    "Damage": 1.5
+                }
+            ],
+            [
+                "Macaw",
+                {
+                    "Armor": 0,
+                    "Base": 200,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0.5,
+                    "Base": 300,
+                    "Regen": 2
+                },
+                {
+                    "Small": 0,
+                    "Point": 0,
+                    "Fixed": 2,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 100,
+                    "Vertical": 50,
+                    "Warp Charge Time": 3,
+                    "Base": 215,
+                    "Agility": 165,
+                    "Warp Speed": 140,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 1,
+                    "Reactor": 2,
+                    "Subsystem": 3,
+                    "Engine": 1,
+                    "Defense": 1
+                },
+                {
+                    "Base": 120,
+                    "Regen": 1.35
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    4750
+                ],
+                0,
+                [],
+                {
+                    "Rate": 1.5
+                }
+            ],
+            [
+                "Mackerel",
+                {
+                    "Armor": 0,
+                    "Base": 150,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0,
+                    "Base": 150,
+                    "Regen": 2
+                },
+                {
+                    "Small": 0,
+                    "Point": 0,
+                    "Fixed": 2,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 85,
+                    "Vertical": 50,
+                    "Warp Charge Time": 3,
+                    "Base": 220,
+                    "Agility": 200,
+                    "Warp Speed": 140,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 1,
+                    "Reactor": 0,
+                    "Subsystem": 1,
+                    "Engine": 2,
+                    "Defense": 0
+                },
+                {
+                    "Base": 95,
+                    "Regen": 1.2000000000000002
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    5000
+                ],
+                0,
+                [],
+                {
+                    "Damage": 1.834
+                }
+            ]
+        ],
+        "Frigate": [
+            [
+                "Barracuda",
+                {
+                    "Armor": 3,
+                    "Regen": 0,
+                    "Base": 6300
+                },
+                {
+                    "Armor": 1.75,
+                    "Base": 2500,
+                    "Regen": 13
+                },
+                {
+                    "Small": 6,
+                    "Point": 4,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 37,
+                    "Vertical": 16,
+                    "Warp Charge Time": 6,
+                    "Base": 80,
+                    "Agility": 55,
+                    "Warp Speed": 80,
+                    "Boost": 85
+                },
+                {
+                    "Engine": 1,
+                    "Defense": 1,
+                    "Subsystem": 1,
+                    "Weapon": 2,
+                    "Reactor": 1
+                },
+                {
+                    "Base": 550,
+                    "Regen": 5.25
+                },
+                {
+                    "TurretDamage": 1.1
+                },
+                "Medium",
+                [
+                    40,
+                    8000
+                ],
+                0,
+                [],
+                []
+            ],
+            [
+                "Halo",
+                {
+                    "Armor": 2,
+                    "Base": 4000,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 2,
+                    "Base": 3000,
+                    "Regen": 12
+                },
+                {
+                    "Small": 6,
+                    "Point": 4,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 35,
+                    "Vertical": 18,
+                    "Warp Charge Time": 5,
+                    "Base": 90,
+                    "Agility": 65,
+                    "Warp Speed": 110,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 0,
+                    "Reactor": 1,
+                    "Subsystem": 1,
+                    "Engine": 2,
+                    "Defense": 0
+                },
+                {
+                    "Base": 550,
+                    "Regen": 6
+                },
+                [],
+                "Medium",
+                [
+                    40,
+                    7000
+                ],
+                0,
+                [],
+                []
+            ],
+            [
+                "Judicator",
+                {
+                    "Armor": 2,
+                    "Base": 5500,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 3,
+                    "Base": 2500,
+                    "Regen": 17.5
+                },
+                {
+                    "Small": 6,
+                    "Point": 4,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 40,
+                    "Vertical": 17,
+                    "Warp Charge Time": 5,
+                    "Base": 85,
+                    "Agility": 60,
+                    "Warp Speed": 95,
+                    "Boost": 85
+                },
+                {
+                    "Engine": 1,
+                    "Defense": 1,
+                    "Subsystem": 2,
+                    "Weapon": 0,
+                    "Reactor": 2
+                },
+                {
+                    "Base": 580,
+                    "Regen": 6.75
+                },
+                [],
+                "Medium",
+                [
+                    40,
+                    8000
+                ],
+                0,
+                [],
+                []
+            ],
+            [
+                "Phalanx",
+                {
+                    "Armor": 3.5,
+                    "Regen": 0,
+                    "Base": 8200
+                },
+                {
+                    "Armor": 1.5,
+                    "Base": 1200,
+                    "Regen": 12
+                },
+                {
+                    "Small": 6,
+                    "Point": 4,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 18,
+                    "Vertical": 10,
+                    "Warp Charge Time": 5,
+                    "Base": 80,
+                    "Agility": 45,
+                    "Warp Speed": 120,
+                    "Boost": 85
+                },
+                {
+                    "Engine": 1,
+                    "Defense": 2,
+                    "Subsystem": 1,
+                    "Weapon": 1,
+                    "Reactor": 0
+                },
+                {
+                    "Base": 610,
+                    "Regen": 6
+                },
+                [],
+                "Medium",
+                [
+                    40,
+                    8000
+                ],
+                0,
+                [],
+                {
+                    "Damage": 0.75
+                }
+            ],
+            [
+                "Adamant",
+                {
+                    "Armor": 2,
+                    "Base": 4200,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 1,
+                    "Base": 2000,
+                    "Regen": 25
+                },
+                {
+                    "Small": 6,
+                    "Point": 2,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 35,
+                    "Vertical": 17,
+                    "Warp Charge Time": 4,
+                    "Base": 85,
+                    "Agility": 70,
+                    "Warp Speed": 100,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 1,
+                    "Reactor": 2,
+                    "Subsystem": 1,
+                    "Engine": 1,
+                    "Defense": 0
+                },
+                {
+                    "Base": 490,
+                    "Regen": 7.5
+                },
+                [],
+                "Medium",
+                [
+                    40,
+                    8000
+                ],
+                0,
+                [],
+                []
+            ],
+            [
+                "Virtue",
+                {
+                    "Armor": 2.5,
+                    "Base": 2000,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 2.5,
+                    "Base": 7200,
+                    "Regen": 8
+                },
+                {
+                    "Small": 6,
+                    "Point": 4,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 23,
+                    "Vertical": 70,
+                    "Warp Charge Time": 6,
+                    "Base": 65,
+                    "Agility": 50,
+                    "Warp Speed": 70,
+                    "Boost": 60
+                },
+                {
+                    "Weapon": 1,
+                    "Reactor": 1,
+                    "Subsystem": 1,
+                    "Engine": 1,
+                    "Defense": 2
+                },
+                {
+                    "Base": 520,
+                    "Regen": 6.75
+                },
+                {
+                    "TurretAgility": 1.75
+                },
+                "Medium",
+                [
+                    40,
+                    8000
+                ],
+                0,
+                [],
+                []
+            ]
+        ],
+        "Corvette": [
+            [
+                "Dolphin",
+                {
+                    "Armor": 2.5,
+                    "Base": 5200,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 1,
+                    "Base": 900,
+                    "Regen": 11
+                },
+                {
+                    "Small": 4,
+                    "Point": 2,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 20,
+                    "Vertical": 40,
+                    "Warp Charge Time": 5,
+                    "Base": 105,
+                    "Agility": 80,
+                    "Warp Speed": 80,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 1,
+                    "Reactor": 0,
+                    "Subsystem": 1,
+                    "Engine": 1,
+                    "Defense": 2
+                },
+                {
+                    "Base": 440,
+                    "Regen": 4.5
+                },
+                [],
+                "Medium",
+                [
+                    35,
+                    6500
+                ],
+                0,
+                [],
+                []
+            ],
+            [
+                "Radix",
+                {
+                    "Armor": 1,
+                    "Base": 2400,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 1.5,
+                    "Base": 2500,
+                    "Regen": 10
+                },
+                {
+                    "Small": 4,
+                    "Point": 2,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 40,
+                    "Vertical": 23,
+                    "Warp Speed": 110,
+                    "Warp Charge Time": 4.5,
+                    "Base": 115,
+                    "Agility": 85,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 0,
+                    "Reactor": 1,
+                    "Subsystem": 1,
+                    "Engine": 2,
+                    "Defense": 0
+                },
+                {
+                    "Base": 400,
+                    "Regen": 4.5
+                },
+                [],
+                "Medium",
+                [
+                    35,
+                    6000
+                ],
+                0,
+                [],
+                []
+            ],
+            [
+                "Knifejaw",
+                {
+                    "Armor": 2,
+                    "Regen": 0,
+                    "Base": 4500
+                },
+                {
+                    "Armor": 1.25,
+                    "Base": 1000,
+                    "Regen": 10
+                },
+                {
+                    "Small": 4,
+                    "Point": 2,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 40,
+                    "Vertical": 21,
+                    "Warp Charge Time": 5.5,
+                    "Base": 105,
+                    "Agility": 75,
+                    "Warp Speed": 80,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 2,
+                    "Reactor": 0,
+                    "Subsystem": 1,
+                    "Engine": 1,
+                    "Defense": 2
+                },
+                {
+                    "Base": 400,
+                    "Regen": 4
+                },
+                {
+                    "TurretDamage": 1.1
+                },
+                "Medium",
+                [
+                    35,
+                    6500
+                ],
+                0,
+                [],
+                []
+            ],
+            [
+                "Infinity",
+                {
+                    "Armor": 1.5,
+                    "Base": 3200,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0.5,
+                    "Base": 1500,
+                    "Regen": 20
+                },
+                {
+                    "Small": 4,
+                    "Point": 2,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 40,
+                    "Vertical": 22,
+                    "Warp Charge Time": 3.5,
+                    "Base": 110,
+                    "Agility": 90,
+                    "Warp Speed": 100,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 1,
+                    "Reactor": 1,
+                    "Subsystem": 1,
+                    "Engine": 1,
+                    "Defense": 0
+                },
+                {
+                    "Base": 360,
+                    "Regen": 5.4
+                },
+                [],
+                "Medium",
+                [
+                    35,
+                    6500
+                ],
+                0,
+                [],
+                []
+            ],
+            [
+                "Edict",
+                {
+                    "Armor": 1.5,
+                    "Base": 3500,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 2,
+                    "Base": 1500,
+                    "Regen": 15
+                },
+                {
+                    "Small": 4,
+                    "Point": 2,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 50,
+                    "Vertical": 18,
+                    "Warp Charge Time": 4,
+                    "Base": 110,
+                    "Agility": 80,
+                    "Warp Speed": 95,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 1,
+                    "Reactor": 2,
+                    "Subsystem": 2,
+                    "Engine": 1,
+                    "Defense": 0
+                },
+                {
+                    "Base": 420,
+                    "Regen": 5
+                },
+                [],
+                "Medium",
+                [
+                    35,
+                    6500
+                ],
+                0,
+                [],
+                []
+            ],
+            [
+                "Liberty",
+                {
+                    "Armor": 1.5,
+                    "Base": 1500,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 1.5,
+                    "Regen": 6,
+                    "Base": 4600
+                },
+                {
+                    "Small": 4,
+                    "Point": 2,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Base": 100,
+                    "Agility": 70,
+                    "Warp Speed": 70,
+                    "Acceleration": 25,
+                    "Vertical": 45,
+                    "Warp Charge Time": 5,
+                    "Boost": 60
+                },
+                {
+                    "Engine": 0,
+                    "Defense": 2,
+                    "Subsystem": 1,
+                    "Weapon": 1,
+                    "Reactor": 1
+                },
+                {
+                    "Base": 380,
+                    "Regen": 5
+                },
+                {
+                    "TurretAgility": 1.75
+                },
+                "Medium",
+                [
+                    35,
+                    6500
+                ],
+                0,
+                [],
+                []
+            ]
+        ],
+        "Hauler": [
+            [
+                "Zubron",
+                {
+                    "Armor": 1,
+                    "Base": 1800,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 1.5,
+                    "Base": 1500,
+                    "Regen": 4
+                },
+                {
+                    "Small": 2,
+                    "Point": 4,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 25,
+                    "Vertical": 20,
+                    "Warp Charge Time": 4,
+                    "Base": 100,
+                    "Agility": 80,
+                    "Warp Speed": 70,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 2,
+                    "Reactor": 0,
+                    "Subsystem": 1,
+                    "Engine": 1,
+                    "Defense": 0
+                },
+                {
+                    "Base": 400,
+                    "Regen": 4.5
+                },
+                [],
+                "Medium",
+                [
+                    35,
+                    6500
+                ],
+                20,
+                [],
+                []
+            ],
+            [
+                "Hyrax",
+                {
+                    "Armor": 0,
+                    "Base": 250,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0,
+                    "Base": 250,
+                    "Regen": 1
+                },
+                {
+                    "Small": 0,
+                    "Point": 1,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 100,
+                    "Vertical": 21,
+                    "Warp Charge Time": 4,
+                    "Base": 165,
+                    "Agility": 120,
+                    "Warp Speed": 100,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 0,
+                    "Reactor": 0,
+                    "Subsystem": 1,
+                    "Engine": 1,
+                    "Defense": 0
+                },
+                {
+                    "Base": 80,
+                    "Regen": 1.7999999999999999
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    4500
+                ],
+                4,
+                [],
+                []
+            ],
+            [
+                "Shroud",
+                {
+                    "Armor": 2,
+                    "Base": 2400,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 1,
+                    "Base": 1750,
+                    "Regen": 7
+                },
+                {
+                    "Small": 4,
+                    "Point": 4,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 20,
+                    "Vertical": 17,
+                    "Warp Charge Time": 4,
+                    "Base": 85,
+                    "Agility": 70,
+                    "Warp Speed": 85,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 0,
+                    "Reactor": 1,
+                    "Subsystem": 1,
+                    "Engine": 2,
+                    "Defense": 1
+                },
+                {
+                    "Base": 480,
+                    "Regen": 7.5
+                },
+                [],
+                "Medium",
+                [
+                    40,
+                    4500
+                ],
+                24,
+                [],
+                []
+            ],
+            [
+                "Astero",
+                {
+                    "Armor": 1.5,
+                    "Base": 3300,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0.5,
+                    "Base": 850,
+                    "Regen": 2
+                },
+                {
+                    "Small": 3,
+                    "Point": 2,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 16,
+                    "Vertical": 16,
+                    "Warp Charge Time": 4.5,
+                    "Base": 80,
+                    "Agility": 55,
+                    "Warp Speed": 65,
+                    "Boost": 85
+                },
+                {
+                    "Engine": 0,
+                    "Defense": 2,
+                    "Subsystem": 1,
+                    "Weapon": 0,
+                    "Reactor": 0
+                },
+                {
+                    "Base": 350,
+                    "Regen": 4.5
+                },
+                {
+                    "TurretDamage": 0.8
+                },
+                "Medium",
+                [
+                    35,
+                    6500
+                ],
+                20,
+                [],
+                []
+            ],
+            [
+                "Galaxy",
+                {
+                    "Armor": 1.5,
+                    "Base": 3800,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0.5,
+                    "Base": 1000,
+                    "Regen": 4
+                },
+                {
+                    "Small": 4,
+                    "Point": 4,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 14,
+                    "Vertical": 12,
+                    "Warp Charge Time": 4.5,
+                    "Base": 60,
+                    "Agility": 50,
+                    "Warp Speed": 65,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 1,
+                    "Reactor": 0,
+                    "Subsystem": 1,
+                    "Engine": 0,
+                    "Defense": 2
+                },
+                {
+                    "Base": 450,
+                    "Regen": 6
+                },
+                {
+                    "TurretDamage": 0.8
+                },
+                "Medium",
+                [
+                    40,
+                    8000
+                ],
+                30,
+                [],
+                []
+            ],
+            [
+                "Veil",
+                {
+                    "Armor": 1,
+                    "Base": 1500,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 1,
+                    "Base": 1350,
+                    "Regen": 6
+                },
+                {
+                    "Small": 2,
+                    "Point": 3,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 20,
+                    "Vertical": 21,
+                    "Warp Charge Time": 3.5,
+                    "Base": 105,
+                    "Agility": 75,
+                    "Warp Speed": 85,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 0,
+                    "Reactor": 1,
+                    "Subsystem": 1,
+                    "Engine": 1,
+                    "Defense": 1
+                },
+                {
+                    "Base": 400,
+                    "Regen": 4.5
+                },
+                [],
+                "Medium",
+                [
+                    35,
+                    3750
+                ],
+                16,
+                [],
+                []
+            ],
+            [
+                "Rhino",
+                {
+                    "Armor": 0,
+                    "Base": 300,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 1,
+                    "Base": 400,
+                    "Regen": 2
+                },
+                {
+                    "Small": 0,
+                    "Point": 2,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 90,
+                    "Vertical": 35,
+                    "Warp Speed": 150,
+                    "Base": 175,
+                    "Agility": 120,
+                    "Warp Charge Time": 3,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 0,
+                    "Reactor": 0,
+                    "Subsystem": 1,
+                    "Engine": 2,
+                    "Defense": 1
+                },
+                {
+                    "Base": 100,
+                    "Regen": 1.2000000000000002
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    4000
+                ],
+                6,
+                [],
+                {
+                    "Damage": 0.5,
+                    "Speed": 0.8
+                }
+            ],
+            [
+                "Mammoth",
+                {
+                    "Armor": 1.5,
+                    "Base": 700,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0,
+                    "Base": 100,
+                    "Regen": 1.5
+                },
+                {
+                    "Small": 0,
+                    "Point": 3,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 85,
+                    "Vertical": 31,
+                    "Warp Speed": 110,
+                    "Base": 155,
+                    "Agility": 100,
+                    "Warp Charge Time": 4.5,
+                    "Boost": 85
+                },
+                {
+                    "Weapon": 0,
+                    "Reactor": 0,
+                    "Subsystem": 1,
+                    "Engine": 1,
+                    "Defense": 2
+                },
+                {
+                    "Base": 100,
+                    "Regen": 1.5
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    5000
+                ],
+                9,
+                [],
+                {
+                    "Damage": 0.5,
+                    "Speed": 0.8
+                }
+            ]
+        ],
+        "Vendor": [
+            [
+                "Fargo",
+                {
+                    "Armor": 0,
+                    "Base": 300,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0,
+                    "Base": 100,
+                    "Regen": 1
+                },
+                {
+                    "Small": 0,
+                    "Point": 0,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 30,
+                    "Vertical": 7,
+                    "Warp Charge Time": 5,
+                    "Base": 80,
+                    "Agility": 100,
+                    "Warp Speed": 70,
+                    "Boost": 75
+                },
+                {
+                    "Weapon": 1,
+                    "Reactor": 1,
+                    "Subsystem": 1,
+                    "Engine": 1,
+                    "Defense": 1
+                },
+                {
+                    "Base": 125,
+                    "Regen": 4.5
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    5000
+                ],
+                0,
+                [],
+                []
+            ],
+            [
+                "Yuma",
+                {
+                    "Armor": 0,
+                    "Base": 550,
+                    "Regen": 0
+                },
+                {
+                    "Armor": 0,
+                    "Base": 100,
+                    "Regen": 1
+                },
+                {
+                    "Small": 0,
+                    "Point": 0,
+                    "Fixed": 0,
+                    "Medium": 0
+                },
+                {
+                    "Acceleration": 30,
+                    "Vertical": 7,
+                    "Warp Charge Time": 5,
+                    "Base": 80,
+                    "Agility": 100,
+                    "Warp Speed": 70,
+                    "Boost": 75
+                },
+                {
+                    "Weapon": 1,
+                    "Reactor": 1,
+                    "Subsystem": 1,
+                    "Engine": 1,
+                    "Defense": 1
+                },
+                {
+                    "Base": 150,
+                    "Regen": 6
+                },
+                [],
+                "Small",
+                [
+                    25,
+                    5000
+                ],
+                0,
+                [],
+                []
+            ]
+        ]
+    },
+    "Turret": {
+        "Small": [
+            [
+                "Miner 2",
+                "Small",
+                "Miner",
+                {
+                    "Range": 1000,
+                    "Offset": 0.05,
+                    "Yield": 3.7,
+                    "Turning": 25,
+                    "Precision": 65,
+                    "Rate": 60,
+                    "Charge": 2,
+                    "IceYield": 0.5
+                }
+            ],
+            [
+                "Miner 1",
+                "Small",
+                "Miner",
+                {
+                    "Range": 1000,
+                    "Offset": 0.05,
+                    "Yield": 3.4,
+                    "Turning": 25,
+                    "Precision": 65,
+                    "Rate": 60,
+                    "Charge": 2,
+                    "IceYield": 0.5
+                }
+            ],
+            [
+                "Ice Miner 2",
+                "Small",
+                "Miner",
+                {
+                    "Range": 1000,
+                    "Offset": 0.05,
+                    "Yield": 4,
+                    "Turning": 25,
+                    "Precision": 65,
+                    "Rate": 60,
+                    "Charge": 2,
+                    "IceYield": 1
+                }
+            ],
+            [
+                "Ice Miner 1",
+                "Small",
+                "Miner",
+                {
+                    "Range": 1000,
+                    "Offset": 0.05,
+                    "Yield": 3,
+                    "Turning": 25,
+                    "Precision": 65,
+                    "Rate": 60,
+                    "Charge": 2,
+                    "IceYield": 1
+                }
+            ],
+            [
+                "Precision Miner 1",
+                "Small",
+                "Miner",
+                {
+                    "Range": 1000,
+                    "Offset": 0.05,
+                    "Yield": 3.5,
+                    "Turning": 25,
+                    "Precision": 85,
+                    "Rate": 60,
+                    "Charge": 2,
+                    "IceYield": 0.55
+                }
+            ],
+            [
+                "Precision Miner 2",
+                "Small",
+                "Miner",
+                {
+                    "Range": 1000,
+                    "Offset": 0.05,
+                    "Yield": 3.7,
+                    "Turning": 25,
+                    "Precision": 90,
+                    "Rate": 60,
+                    "Charge": 2,
+                    "IceYield": 0.55
+                }
+            ],
+            [
+                "Prospector1",
+                "Small",
+                "Prospector",
+                {
+                    "Range": 1000,
+                    "Offset": 0.05,
+                    "Turning": 120,
+                    "Rate": 60,
+                    "Charge": 5
+                }
+            ],
+            [
+                "Strip Miner 2",
+                "Small",
+                "Miner",
+                {
+                    "Range": 1000,
+                    "Offset": 0.05,
+                    "Yield": 5.9,
+                    "Turning": 25,
+                    "Precision": 50,
+                    "Rate": 60,
+                    "Charge": 2,
+                    "IceYield": 0.4
+                }
+            ],
+            [
+                "Strip Miner 1",
+                "Small",
+                "Miner",
+                {
+                    "Range": 1000,
+                    "Offset": 0.05,
+                    "Yield": 5.1,
+                    "Turning": 25,
+                    "Precision": 50,
+                    "Rate": 60,
+                    "Charge": 2,
+                    "IceYield": 0.4
+                }
+            ],
+            [
+                "Ion 1",
+                "Small",
+                "Ion",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Size": 1,
+                    "Accuracy": 0.25,
+                    "Rate": 120,
+                    "Impact": 2,
+                    "Turning": 70,
+                    "Damage": 20,
+                    "Speed": 1000
+                }
+            ],
+            [
+                "Coilgun 1",
+                "Small",
+                "Coilgun",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 120,
+                    "Impact": 2,
+                    "Turning": 45,
+                    "Speed": 1375,
+                    "Damage": 20,
+                    "Size": 5
+                }
+            ],
+            [
+                "Railgun 1",
+                "Small",
+                "Railgun",
+                {
+                    "Range": 2500,
+                    "Offset": 0.05,
+                    "Charge": 2,
+                    "Accuracy": "3 - 0",
+                    "Impact": 3,
+                    "Turning": 60,
+                    "Focus": 4,
+                    "Damage": 160,
+                    "Speed": 3750,
+                    "Rate": 7,
+                    "Size": 8
+                }
+            ],
+            [
+                "Blaster 1",
+                "Small",
+                "Burst",
+                {
+                    "Range": 2100,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 180,
+                    "Impact": 2,
+                    "Turning": 80,
+                    "Speed": 1600,
+                    "Damage": 14,
+                    "Size": 10
+                }
+            ],
+            [
+                "Cannon 1",
+                "Small",
+                "Cannon",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 45,
+                    "Impact": 3,
+                    "Turning": 45,
+                    "Speed": 625,
+                    "Damage": 60,
+                    "Size": 12
+                }
+            ],
+            [
+                "Beam 1",
+                "Small",
+                "Beam",
+                {
+                    "Range": 2500,
+                    "Offset": 0.05,
+                    "Charge": 1.5,
+                    "Accuracy": "1.5 - 0",
+                    "Falloff": 0.5,
+                    "Duration": 1,
+                    "Impact": 0,
+                    "Turning": 50,
+                    "Focus": 3,
+                    "Damage": 180,
+                    "Speed": 5000,
+                    "Rate": 8,
+                    "Size": 4
+                }
+            ],
+            [
+                "Flak 1",
+                "Small",
+                "Flak",
+                {
+                    "Range": 2000,
+                    "Proximity": 50,
+                    "Offset": 0.1,
+                    "Radius": 100,
+                    "Accuracy": 1.25,
+                    "Impact": 1,
+                    "Turning": 150,
+                    "Damage": 7,
+                    "Speed": 1600,
+                    "Rate": 120,
+                    "Size": 6
+                }
+            ],
+            [
+                "Shrapnel 1",
+                "Small",
+                "Shrapnel",
+                {
+                    "Shots": 5,
+                    "Range": 1250,
+                    "Offset": 0.1,
+                    "Accuracy": "3 - 0",
+                    "Rate": 35,
+                    "Impact": 1,
+                    "Turning": 50,
+                    "Damage": 100,
+                    "Speed": 750,
+                    "Size": 3
+                }
+            ],
+            [
+                "Beam 3",
+                "Small",
+                "Beam",
+                {
+                    "Range": 2500,
+                    "Offset": 0.05,
+                    "Charge": 1.5,
+                    "Accuracy": "1.5 - 0",
+                    "Falloff": 0.5,
+                    "Duration": 1,
+                    "Impact": 0,
+                    "Turning": 50,
+                    "Focus": 3,
+                    "Damage": 220,
+                    "Speed": 5000,
+                    "Rate": 8,
+                    "Size": 4
+                }
+            ],
+            [
+                "Beam 2",
+                "Small",
+                "Beam",
+                {
+                    "Range": 2500,
+                    "Offset": 0.05,
+                    "Charge": 1.5,
+                    "Accuracy": "1.5 - 0",
+                    "Falloff": 0.5,
+                    "Duration": 1,
+                    "Impact": 0,
+                    "Turning": 50,
+                    "Focus": 3,
+                    "Damage": 200,
+                    "Speed": 5000,
+                    "Rate": 8,
+                    "Size": 4
+                }
+            ],
+            [
+                "Beam  Hybrid",
+                "Small",
+                "Beam",
+                {
+                    "Range": 2500,
+                    "Offset": 0.05,
+                    "Charge": 1.5,
+                    "Accuracy": "1.5 - 0",
+                    "Falloff": 0.5,
+                    "Duration": 1,
+                    "Impact": 0,
+                    "Turning": 50,
+                    "Focus": 3,
+                    "Damage": 240,
+                    "Speed": 5000,
+                    "Rate": 8,
+                    "Size": 4
+                }
+            ],
+            [
+                "Cannon 3",
+                "Small",
+                "Cannon",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 45,
+                    "Impact": 3,
+                    "Turning": 45,
+                    "Speed": 625,
+                    "Damage": 70,
+                    "Size": 12
+                }
+            ],
+            [
+                "Cannon 2",
+                "Small",
+                "Cannon",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 45,
+                    "Impact": 3,
+                    "Turning": 45,
+                    "Speed": 625,
+                    "Damage": 65,
+                    "Size": 12
+                }
+            ],
+            [
+                "Cannon  Hybrid",
+                "Small",
+                "Cannon",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 45,
+                    "Impact": 3,
+                    "Turning": 45,
+                    "Speed": 625,
+                    "Damage": 75,
+                    "Size": 12
+                }
+            ],
+            [
+                "Coilgun  Ancient",
+                "Small",
+                "Coilgun",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 120,
+                    "Impact": 2,
+                    "Turning": 45,
+                    "Speed": 1375,
+                    "Damage": 24.5,
+                    "Size": 5
+                }
+            ],
+            [
+                "Coilgun 3",
+                "Small",
+                "Coilgun",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 120,
+                    "Impact": 2,
+                    "Turning": 45,
+                    "Speed": 1375,
+                    "Damage": 23,
+                    "Size": 5
+                }
+            ],
+            [
+                "Coilgun  Dread",
+                "Small",
+                "Coilgun",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 120,
+                    "Impact": 2,
+                    "Turning": 45,
+                    "Speed": 1375,
+                    "Damage": 24.5,
+                    "Size": 5
+                }
+            ],
+            [
+                "Coilgun 2",
+                "Small",
+                "Coilgun",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 120,
+                    "Impact": 2,
+                    "Turning": 45,
+                    "Speed": 1375,
+                    "Damage": 21.5,
+                    "Size": 5
+                }
+            ],
+            [
+                "Flak 3",
+                "Small",
+                "Flak",
+                {
+                    "Range": 2000,
+                    "Proximity": 50,
+                    "Offset": 0.1,
+                    "Radius": 120,
+                    "Accuracy": 1.25,
+                    "Impact": 1,
+                    "Turning": 170,
+                    "Damage": 9,
+                    "Speed": 1600,
+                    "Rate": 120,
+                    "Size": 6
+                }
+            ],
+            [
+                "Flak  Dread",
+                "Small",
+                "Flak",
+                {
+                    "Range": 2000,
+                    "Proximity": 50,
+                    "Offset": 0.1,
+                    "Radius": 130,
+                    "Accuracy": 1.25,
+                    "Impact": 1,
+                    "Turning": 180,
+                    "Damage": 10,
+                    "Speed": 1600,
+                    "Rate": 120,
+                    "Size": 6
+                }
+            ],
+            [
+                "Flak 2",
+                "Small",
+                "Flak",
+                {
+                    "Range": 2000,
+                    "Proximity": 50,
+                    "Offset": 0.1,
+                    "Radius": 110,
+                    "Accuracy": 1.25,
+                    "Impact": 1,
+                    "Turning": 160,
+                    "Damage": 8,
+                    "Speed": 1600,
+                    "Rate": 120,
+                    "Size": 6
+                }
+            ],
+            [
+                "Railgun  Ancient",
+                "Small",
+                "Railgun",
+                {
+                    "Range": 2500,
+                    "Offset": 0.05,
+                    "Charge": 2,
+                    "Accuracy": "3 - 0",
+                    "Impact": 3,
+                    "Turning": 60,
+                    "Focus": 4,
+                    "Damage": 220,
+                    "Speed": 3750,
+                    "Rate": 7,
+                    "Size": 8
+                }
+            ],
+            [
+                "Railgun 3",
+                "Small",
+                "Railgun",
+                {
+                    "Range": 2500,
+                    "Offset": 0.05,
+                    "Charge": 2,
+                    "Accuracy": "3 - 0",
+                    "Impact": 3,
+                    "Turning": 60,
+                    "Focus": 4,
+                    "Damage": 200,
+                    "Speed": 3750,
+                    "Rate": 7,
+                    "Size": 8
+                }
+            ],
+            [
+                "Railgun  Dread",
+                "Small",
+                "Railgun",
+                {
+                    "Range": 2500,
+                    "Offset": 0.05,
+                    "Charge": 2,
+                    "Accuracy": "3 - 0",
+                    "Impact": 3,
+                    "Turning": 60,
+                    "Focus": 4,
+                    "Damage": 220,
+                    "Speed": 3750,
+                    "Rate": 7,
+                    "Size": 8
+                }
+            ],
+            [
+                "Railgun 2",
+                "Small",
+                "Railgun",
+                {
+                    "Range": 2500,
+                    "Offset": 0.05,
+                    "Charge": 2,
+                    "Accuracy": "3 - 0",
+                    "Impact": 3,
+                    "Turning": 60,
+                    "Focus": 4,
+                    "Damage": 180,
+                    "Speed": 3750,
+                    "Rate": 7,
+                    "Size": 8
+                }
+            ],
+            [
+                "Blaster 3",
+                "Small",
+                "Burst",
+                {
+                    "Range": 2100,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 180,
+                    "Impact": 2,
+                    "Turning": 80,
+                    "Speed": 1600,
+                    "Damage": 16,
+                    "Size": 10
+                }
+            ],
+            [
+                "Blaster 2",
+                "Small",
+                "Burst",
+                {
+                    "Range": 2100,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 180,
+                    "Impact": 2,
+                    "Turning": 80,
+                    "Speed": 1600,
+                    "Damage": 15,
+                    "Size": 10
+                }
+            ],
+            [
+                "Blaster  Hybrid",
+                "Small",
+                "Burst",
+                {
+                    "Range": 2100,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 180,
+                    "Impact": 2,
+                    "Turning": 80,
+                    "Speed": 1600,
+                    "Damage": 17,
+                    "Size": 10
+                }
+            ],
+            [
+                "Shrapnel 3",
+                "Small",
+                "Shrapnel",
+                {
+                    "Shots": 5,
+                    "Range": 1250,
+                    "Offset": 0.1,
+                    "Accuracy": "3 - 0",
+                    "Rate": 35,
+                    "Impact": 1,
+                    "Turning": 50,
+                    "Damage": 110,
+                    "Speed": 750,
+                    "Size": 3
+                }
+            ],
+            [
+                "Shrapnel  Dread",
+                "Small",
+                "Shrapnel",
+                {
+                    "Shots": 5,
+                    "Range": 1250,
+                    "Offset": 0.1,
+                    "Accuracy": "3 - 0",
+                    "Rate": 35,
+                    "Impact": 1,
+                    "Turning": 50,
+                    "Damage": 115,
+                    "Speed": 750,
+                    "Size": 3
+                }
+            ],
+            [
+                "Shrapnel 2",
+                "Small",
+                "Shrapnel",
+                {
+                    "Shots": 5,
+                    "Range": 1250,
+                    "Offset": 0.1,
+                    "Accuracy": "3 - 0",
+                    "Rate": 35,
+                    "Impact": 1,
+                    "Turning": 50,
+                    "Damage": 105,
+                    "Speed": 750,
+                    "Size": 3
+                }
+            ],
+            [
+                "Ion 3",
+                "Small",
+                "Ion",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Size": 1,
+                    "Accuracy": 0.25,
+                    "Rate": 120,
+                    "Impact": 2,
+                    "Turning": 70,
+                    "Damage": 22,
+                    "Speed": 1000
+                }
+            ],
+            [
+                "Ion 2",
+                "Small",
+                "Ion",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Size": 1,
+                    "Accuracy": 0.25,
+                    "Rate": 120,
+                    "Impact": 2,
+                    "Turning": 70,
+                    "Damage": 21,
+                    "Speed": 1000
+                }
+            ],
+            [
+                "Ion  Hybrid",
+                "Small",
+                "Ion",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Size": 1,
+                    "Accuracy": 0.25,
+                    "Rate": 120,
+                    "Impact": 2,
+                    "Turning": 70,
+                    "Damage": 23,
+                    "Speed": 1000
+                }
+            ]
+        ],
+        "Point": [
+            [
+                "RepeaterP0",
+                "Point",
+                "Repeater",
+                {
+                    "Range": 1500,
+                    "Offset": 0.1,
+                    "Accuracy": 1,
+                    "Rate": 300,
+                    "Impact": 0,
+                    "Turning": 180,
+                    "Speed": 1250,
+                    "Damage": 2.5,
+                    "Size": 16
+                }
+            ],
+            [
+                "ChainP0",
+                "Point",
+                "Chain",
+                {
+                    "Range": 1250,
+                    "Offset": 0.1,
+                    "Turning": 60,
+                    "Impact": 0,
+                    "Rate": 300,
+                    "Damage": 3.5,
+                    "Speed": 1250
+                }
+            ],
+            [
+                "PulseP0",
+                "Point",
+                "Beam",
+                {
+                    "Range": 2000,
+                    "Offset": 0.05,
+                    "Accuracy": 0.1,
+                    "Falloff": 0.5,
+                    "Duration": 0.2,
+                    "Impact": 0,
+                    "Turning": 120,
+                    "Damage": 5,
+                    "Speed": 12500,
+                    "Rate": 120,
+                    "Size": 3
+                }
+            ],
+            [
+                "TractorP0",
+                "Point",
+                "Tractor",
+                {
+                    "Range": 1250,
+                    "Offset": 0.1,
+                    "Turning": 80,
+                    "Speed": 40,
+                    "Rate": 60
+                }
+            ]
+        ],
+        "Fixed": [
+            [
+                "BurstF0",
+                "Fixed",
+                "Pulse",
+                {
+                    "Heat": 0.2,
+                    "Accuracy": 0.25,
+                    "Range": 1800,
+                    "Rate": 400,
+                    "Impact": 0,
+                    "Cooldown": 0.3,
+                    "Speed": 2500,
+                    "Damage": 18,
+                    "Size": 64
+                }
+            ],
+            [
+                "PulseF0",
+                "Fixed",
+                "Beam",
+                {
+                    "Heat": 0.15,
+                    "Accuracy": 0,
+                    "Duration": 0.2,
+                    "Range": 2000,
+                    "Rate": 240,
+                    "Impact": 0,
+                    "Speed": 12500,
+                    "Damage": 18,
+                    "Cooldown": 0.25,
+                    "Size": 3
+                }
+            ],
+            [
+                "ChainF0",
+                "Fixed",
+                "Chain",
+                {
+                    "Impact": 0,
+                    "Rate": 300,
+                    "Heat": 0.2,
+                    "Cooldown": 0.25,
+                    "Speed": 3000,
+                    "Damage": 24,
+                    "Charge": 0.25,
+                    "Range": 1600
+                }
+            ],
+            [
+                "Coilgun F0",
+                "Fixed",
+                "Burst",
+                {
+                    "Range": 1600,
+                    "Offset": 10,
+                    "Accuracy": 0.25,
+                    "Rate": 160,
+                    "Impact": 1,
+                    "Turning": 0,
+                    "Speed": 1375,
+                    "Damage": 8,
+                    "Size": 8
+                }
+            ],
+            [
+                "BlastF0",
+                "Fixed",
+                "Pulse",
+                {
+                    "IceYield": 0.5,
+                    "Precision": 0,
+                    "Impact": 3,
+                    "Rate": 4,
+                    "Yield": 12,
+                    "Speed": 500,
+                    "Range": 1500,
+                    "Size": 12
+                }
+            ],
+            [
+                " Miner F0",
+                "Fixed",
+                "Pulse",
+                {
+                    "Charge": 2,
+                    "IceYield": 0.5,
+                    "Yield": 8,
+                    "Rate": 60,
+                    "Precision": 65,
+                    "Range": 1000
+                }
+            ]
+        ],
+        "Medium": [
+            [
+                "Cannon M1",
+                "Medium",
+                "Cannon",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 45,
+                    "Impact": 3,
+                    "Turning": 15,
+                    "Speed": 625,
+                    "Damage": 135,
+                    "Size": 13
+                }
+            ],
+            [
+                "Beam M1",
+                "Medium",
+                "Beam",
+                {
+                    "Range": 2500,
+                    "Offset": 0.05,
+                    "Charge": 1.5,
+                    "Accuracy": "1.5 - 0",
+                    "Falloff": 0.5,
+                    "Duration": 1,
+                    "Impact": 1,
+                    "Turning": 10,
+                    "Focus": 4,
+                    "Damage": 450,
+                    "Speed": 5000,
+                    "Rate": 7,
+                    "Size": 6
+                }
+            ],
+            [
+                "Railgun M1",
+                "Medium",
+                "Railgun",
+                {
+                    "Range": 2500,
+                    "Offset": 0.05,
+                    "Charge": 2,
+                    "Accuracy": "3 - 0",
+                    "Impact": 3,
+                    "Turning": 15,
+                    "Focus": 6,
+                    "Damage": 425,
+                    "Speed": 3750,
+                    "Rate": 6,
+                    "Size": 10
+                }
+            ],
+            [
+                "Coilgun M1",
+                "Medium",
+                "Coilgun",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 120,
+                    "Impact": 2,
+                    "Turning": 30,
+                    "Speed": 1375,
+                    "Damage": 45,
+                    "Size": 6
+                }
+            ],
+            [
+                "Blaster M1",
+                "Medium",
+                "Burst",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 180,
+                    "Impact": 2,
+                    "Turning": 45,
+                    "Speed": 1250,
+                    "Damage": 32,
+                    "Size": 13
+                }
+            ],
+            [
+                "Ion M1",
+                "Medium",
+                "Ion",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 120,
+                    "Impact": 2,
+                    "Turning": 45,
+                    "Speed": 1000,
+                    "Damage": 45,
+                    "Size": 2
+                }
+            ],
+            [
+                "Beam M3",
+                "Medium",
+                "Beam",
+                {
+                    "Range": 2500,
+                    "Offset": 0.05,
+                    "Charge": 1.5,
+                    "Accuracy": "1.5 - 0",
+                    "Falloff": 0.5,
+                    "Duration": 1,
+                    "Impact": 1,
+                    "Turning": 10,
+                    "Focus": 4,
+                    "Damage": 530,
+                    "Speed": 5000,
+                    "Rate": 7,
+                    "Size": 6
+                }
+            ],
+            [
+                "Beam M2",
+                "Medium",
+                "Beam",
+                {
+                    "Range": 2500,
+                    "Offset": 0.05,
+                    "Charge": 1.5,
+                    "Accuracy": "1.5 - 0",
+                    "Falloff": 0.5,
+                    "Duration": 1,
+                    "Impact": 1,
+                    "Turning": 10,
+                    "Focus": 4,
+                    "Damage": 490,
+                    "Speed": 5000,
+                    "Rate": 7,
+                    "Size": 6
+                }
+            ],
+            [
+                "Beam M Hybrid",
+                "Medium",
+                "Beam",
+                {
+                    "Range": 2500,
+                    "Offset": 0.05,
+                    "Charge": 1.5,
+                    "Accuracy": "1.5 - 0",
+                    "Falloff": 0.5,
+                    "Duration": 1,
+                    "Impact": 1,
+                    "Turning": 10,
+                    "Focus": 4,
+                    "Damage": 570,
+                    "Speed": 5000,
+                    "Rate": 7,
+                    "Size": 6
+                }
+            ],
+            [
+                "Cannon M3",
+                "Medium",
+                "Cannon",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 45,
+                    "Impact": 3,
+                    "Turning": 15,
+                    "Speed": 625,
+                    "Damage": 155,
+                    "Size": 13
+                }
+            ],
+            [
+                "Cannon M2",
+                "Medium",
+                "Cannon",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 45,
+                    "Impact": 3,
+                    "Turning": 15,
+                    "Speed": 625,
+                    "Damage": 145,
+                    "Size": 13
+                }
+            ],
+            [
+                "Cannon M Hybrid",
+                "Medium",
+                "Cannon",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 45,
+                    "Impact": 3,
+                    "Turning": 15,
+                    "Speed": 625,
+                    "Damage": 165,
+                    "Size": 13
+                }
+            ],
+            [
+                "Coilgun M Ancient",
+                "Medium",
+                "Coilgun",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 120,
+                    "Impact": 2,
+                    "Turning": 30,
+                    "Speed": 1375,
+                    "Damage": 54,
+                    "Size": 6
+                }
+            ],
+            [
+                "Coilgun M3",
+                "Medium",
+                "Coilgun",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 120,
+                    "Impact": 2,
+                    "Turning": 30,
+                    "Speed": 1375,
+                    "Damage": 51,
+                    "Size": 6
+                }
+            ],
+            [
+                "Coilgun M Dread",
+                "Medium",
+                "Coilgun",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 120,
+                    "Impact": 2,
+                    "Turning": 30,
+                    "Speed": 1375,
+                    "Damage": 54,
+                    "Size": 6
+                }
+            ],
+            [
+                "Coilgun M2",
+                "Medium",
+                "Coilgun",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 120,
+                    "Impact": 2,
+                    "Turning": 30,
+                    "Speed": 1375,
+                    "Damage": 48,
+                    "Size": 6
+                }
+            ],
+            [
+                "Railgun M Ancient",
+                "Medium",
+                "Railgun",
+                {
+                    "Range": 2500,
+                    "Offset": 0.05,
+                    "Charge": 2,
+                    "Accuracy": "3 - 0",
+                    "Impact": 3,
+                    "Turning": 15,
+                    "Focus": 6,
+                    "Damage": 545,
+                    "Speed": 3750,
+                    "Rate": 6,
+                    "Size": 10
+                }
+            ],
+            [
+                "Railgun M3",
+                "Medium",
+                "Railgun",
+                {
+                    "Range": 2500,
+                    "Offset": 0.05,
+                    "Charge": 2,
+                    "Accuracy": "3 - 0",
+                    "Impact": 3,
+                    "Turning": 15,
+                    "Focus": 6,
+                    "Damage": 505,
+                    "Speed": 3750,
+                    "Rate": 6,
+                    "Size": 10
+                }
+            ],
+            [
+                "Railgun M Dread",
+                "Medium",
+                "Railgun",
+                {
+                    "Range": 2500,
+                    "Offset": 0.05,
+                    "Charge": 2,
+                    "Accuracy": "3 - 0",
+                    "Impact": 3,
+                    "Turning": 15,
+                    "Focus": 6,
+                    "Damage": 545,
+                    "Speed": 3750,
+                    "Rate": 6,
+                    "Size": 10
+                }
+            ],
+            [
+                "Railgun M2",
+                "Medium",
+                "Railgun",
+                {
+                    "Range": 2500,
+                    "Offset": 0.05,
+                    "Charge": 2,
+                    "Accuracy": "3 - 0",
+                    "Impact": 3,
+                    "Turning": 15,
+                    "Focus": 6,
+                    "Damage": 465,
+                    "Speed": 3750,
+                    "Rate": 6,
+                    "Size": 10
+                }
+            ],
+            [
+                "Ion M3",
+                "Medium",
+                "Ion",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 120,
+                    "Impact": 2,
+                    "Turning": 45,
+                    "Speed": 1000,
+                    "Damage": 51,
+                    "Size": 2
+                }
+            ],
+            [
+                "Ion M2",
+                "Medium",
+                "Ion",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 120,
+                    "Impact": 2,
+                    "Turning": 45,
+                    "Speed": 1000,
+                    "Damage": 48,
+                    "Size": 2
+                }
+            ],
+            [
+                "Ion M Hybrid",
+                "Medium",
+                "Ion",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 120,
+                    "Impact": 2,
+                    "Turning": 45,
+                    "Speed": 1000,
+                    "Damage": 54,
+                    "Size": 2
+                }
+            ],
+            [
+                "Blaster M3",
+                "Medium",
+                "Burst",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 180,
+                    "Impact": 2,
+                    "Turning": 45,
+                    "Speed": 1250,
+                    "Damage": 36,
+                    "Size": 13
+                }
+            ],
+            [
+                "Blaster M2",
+                "Medium",
+                "Burst",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 180,
+                    "Impact": 2,
+                    "Turning": 45,
+                    "Speed": 1250,
+                    "Damage": 34,
+                    "Size": 13
+                }
+            ],
+            [
+                "Blaster M Hybrid",
+                "Medium",
+                "Burst",
+                {
+                    "Range": 2000,
+                    "Offset": 0.1,
+                    "Accuracy": 0.25,
+                    "Rate": 180,
+                    "Impact": 2,
+                    "Turning": 45,
+                    "Speed": 1250,
+                    "Damage": 38,
+                    "Size": 13
+                }
+            ]
+        ]
+    }
+}

@@ -1,25 +1,22 @@
 {
-  "name": "nodejs-template",
+  "name": "djs-v14-tutorial",
   "version": "1.0.0",
-  "description": "Node.js service template",
-  "main": "src/server.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "start:prod": "NODE_ENV=production node src/server.js",
-    "start:dev": "NODE_ENV=development node src/server.js",
-    "start:local": "NODE_ENV=local nodemon src/server.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon ./src/index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mogenius/nodejs-template.git"
-  },
-  "author": "Daniel Franken",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mogenius/nodejs-template/issues"
-  },
-  "homepage": "https://github.com/mogenius/nodejs-template#readme",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "cross-env": "^7.0.3",
+    "@discordjs/builders": "^1.0.0",
+    "@discordjs/rest": "^1.0.1",
+    "discord.js": "^14.1.2",
+    "sqlite3": "^5.0.11"
+  },
+  "devDependencies": {
     "dotenv": "^16.0.1",
     "nodemon": "^2.0.19"
   }
