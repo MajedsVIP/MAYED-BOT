@@ -25,7 +25,7 @@ let commandsBody = []
 const commandsPath = './commands';
 const commandFiles = fs.readdirSync(commandsPath).filter(file => file.endsWith('.js'));
 
-var port = process.env.PORT || 8080;
+.listen(process.env.PORT || 5000)
 
 for (const file of commandFiles) {
 	const filePath = commandsPath + `/${file}`
