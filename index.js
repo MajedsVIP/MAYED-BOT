@@ -35,8 +35,6 @@ for (const file of commandFiles) {
   console.log(command.data.name + " successfully added")
 }
 
-config();
-
 const TOKEN = 'MTAwMjg0NTEwOTA0MzMzMTE0Mw.GudVwe.fLzCb1kQN84KlvXc5Z8vZEEyLwf0iDwTRTt7y8';
 const CLIENT_ID = '1002845109043331143';
 const GUILD_ID = '986083709792960554';
