@@ -1,6 +1,5 @@
 const fs = require('node:fs');
 const path = require('node:path');
-const { config } = require('dotenv');
 const {
   Client,
   GatewayIntentBits,
@@ -38,9 +37,9 @@ for (const file of commandFiles) {
 
 config();
 
-const TOKEN = process.env.TOKEN;
-const CLIENT_ID = process.env.CLIENT_ID;
-const GUILD_ID = process.env.GUILD_ID;
+const TOKEN = 'MTAwMjg0NTEwOTA0MzMzMTE0Mw.GudVwe.fLzCb1kQN84KlvXc5Z8vZEEyLwf0iDwTRTt7y8';
+const CLIENT_ID = '1002845109043331143';
+const GUILD_ID = '986083709792960554';
 
 let ListChoices = []
 
