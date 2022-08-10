@@ -11,7 +11,7 @@ const {
   Collection,
 } = require('discord.js')
 const { REST } = require('@discordjs/rest');
-const jsonData = require('../ItemData.json')
+const jsonData = require('./ItemData.json')
 
 const client = new Client({
   intents: [
@@ -23,7 +23,7 @@ const client = new Client({
 
 client.commands = new Collection();
 let commandsBody = []
-const commandsPath = '../commands';
+const commandsPath = './commands';
 const commandFiles = fs.readdirSync(commandsPath).filter(file => file.endsWith('.js'));
 
 for (const file of commandFiles) {
