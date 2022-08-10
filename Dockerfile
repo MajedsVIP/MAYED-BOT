@@ -14,4 +14,4 @@ FROM common-build-stage as production-build-stage
 ENV NODE_ENV production
 ENV PORT 3000
 
-CMD ["node", "src/server.js"]
+CMD ["node", "src/index.js"]
