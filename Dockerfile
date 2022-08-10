@@ -1,4 +1,4 @@
-# Common build stage
+x# Common build stage
 FROM node:18-alpine3.15 as common-build-stage
 
 COPY . ./app
@@ -6,10 +6,6 @@ COPY . ./app
 WORKDIR /app
 
 RUN npm install
-RUN npm install discord.js
-RUN npm install dotenv
-RUN npm install node:path
-RUN npm install node:fs
 
 EXPOSE 3000
 
